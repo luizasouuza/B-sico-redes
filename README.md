@@ -19,7 +19,9 @@ ping google.com
 Resposta de 142.250.78.238: bytes=32 tempo=25ms TTL=56
 
 🔹 bytes=32 → Tamanho do pacote enviado.
+
 🔹 tempo=25ms → Tempo que o pacote levou para ir e voltar (latência).
+
 🔹 TTL=56 → Quantidade de saltos (roteadores) que o pacote pode fazer antes de ser descartado.
 
 📌 Para que serve?
