@@ -69,3 +69,5 @@ Rastreando a rota para google.com [142.250.219.78]
 4    30 ms    29 ms    28 ms  142.250.219.78
 
 Exemplo: Utilizado DNS do Google
+
+![Image](https://github.com/user-attachments/assets/df5e1922-be34-4154-8df3-04ef218de47a)
