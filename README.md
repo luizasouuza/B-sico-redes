@@ -39,15 +39,19 @@ Exemplo: Utilizado DNS do Google
 # COMANDO TRACERT 
 
 🔹 Como Funciona?
-Envio de Pacotes
+
+1) Envio de Pacotes
 
 O tracert envia pacotes ICMP (ou UDP no caso do traceroute em Linux).
 Ele começa com um Time To Live (TTL) = 1, e a cada salto (hop) o TTL aumenta.
-Respostas dos Roteadores
+
+ 
+2) Respostas dos Roteadores
 
 Quando um pacote atinge um roteador, se o TTL for 0, o roteador responde com uma mensagem Time Exceeded.
 O tracert anota o tempo da resposta e o endereço IP do roteador.
-Destino Alcançado
+
+3) Destino Alcançado
 
 O processo continua até que os pacotes alcancem o servidor de destino.
 
