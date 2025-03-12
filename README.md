@@ -30,3 +30,5 @@ Resposta de 142.250.78.238: bytes=32 tempo=25ms TTL=56
 ✅ Medir a qualidade da conexão (latência).
 
 ✅ Diagnosticar problemas de rede (como perda de pacotes).
+
+![Image](https://github.com/user-attachments/assets/b1867418-beb1-4567-9c21-f1318173d006)
